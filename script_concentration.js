@@ -5,7 +5,7 @@ function displayConcentrationLevel(city) {
 	const options = {
 		method: "GET",
 		headers: {
-		"X-RapidAPI-Key": "4141fa634emsh91338397febc5b7p12ab65jsn58b2ed9949dc",
+		"X-RapidAPI-Key": "8090dcb00cmsh7a94b74911e3940p14b326jsn0d6ae8a3d6d1",
 		"X-RapidAPI-Host": "air-quality-by-api-ninjas.p.rapidapi.com",
 		},
 	};
